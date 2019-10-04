@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "280771137664",
+    "firebase_url": "https://onlineproject-e04c3.firebaseio.com",
+    "project_id": "onlineproject-e04c3",
+    "storage_bucket": "onlineproject-e04c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280771137664:android:9af40d253365d029071665",
+        "android_client_info": {
+          "package_name": "com.example.diabeticdiary1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280771137664-qnfdc1mht5uv9j9moqc4e4gpfndpcelj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diabeticdiary1",
+            "certificate_hash": "4e2e5f3e2022644c24e420fdea882d4eca00d2b4"
+          }
+        },
+        {
+          "client_id": "280771137664-brcb4h8mb29qb246vartac060vqgot6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAueedE3yjkpjasj_JJyeqPaRQGxkcbfts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280771137664-brcb4h8mb29qb246vartac060vqgot6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280771137664:android:93dac2767dc52073071665",
+        "android_client_info": {
+          "package_name": "com.example.onlineproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280771137664-7iadul1f2pj4vr7c5hjb58mb7dkj9kup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlineproject",
+            "certificate_hash": "4e2e5f3e2022644c24e420fdea882d4eca00d2b4"
+          }
+        },
+        {
+          "client_id": "280771137664-brcb4h8mb29qb246vartac060vqgot6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAueedE3yjkpjasj_JJyeqPaRQGxkcbfts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280771137664-brcb4h8mb29qb246vartac060vqgot6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
