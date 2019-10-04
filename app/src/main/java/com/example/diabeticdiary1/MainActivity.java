@@ -109,7 +109,7 @@ public class MainActivity extends AppCompatActivity implements ShakeDetector.Lis
         // in the AndroidManifest
 
         Intent intentCall= new Intent(Intent.ACTION_CALL);
-        String emgNumber="01762840818";
+        String emgNumber="12345";
         intentCall.setData(Uri.parse("tel:"+emgNumber));
 
         //Checks if Phone give permission to make a phone call

@@ -7,7 +7,7 @@
         android:layout_width="421dp"
         android:layout_height="63dp"
         android:layout_marginTop="10dp"
-        android:text="Glucose Input"
+        android:text="Glucose Levels"
         android:textAlignment="center"
         android:textAllCaps="true"
         android:textColor="#000000"
